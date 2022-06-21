@@ -1,5 +1,3 @@
-//var vetor = [1,2,3,4,5,5];
-
 function segundo(vetor) {
   const maior = Math.max(...vetor);
   var segundoMaior;
