@@ -1,4 +1,0 @@
-É indubitável a relevância da automação de testes no que se refere ao teste de software, 
-digo isso não apenas por garantir que, no momento a ser testado, suas funcionalidades 
-estejam de acordo com o projetado,  mas o mais importante, garantir seu funcionamento mesmo 
-após alterações na base de código da aplicação.
